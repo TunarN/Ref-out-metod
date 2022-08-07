@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.exe
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.deps.json
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.runtimeconfig.json
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.dll
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\bin\Debug\netcoreapp3.1\MetodlarTask2.pdb
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.dll
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.pdb
+C:\Users\lenovo\source\repos\MetodlarTask2\MetodlarTask2\obj\Debug\netcoreapp3.1\MetodlarTask2.genruntimeconfig.cache
